@@ -37,3 +37,7 @@ CSV/Excel datasets for employee data
 DAX for calculated columns and measures
 
 Data Modeling for relationship building among fields
+
+## BI Dashboard: <a href= "https://https://github.com/Kailash-chowdhury/IBM-Dashboard/blob/main/IBM%20Dashboard.pbix">Dataset</a>
+## Raw Dataset: <a href= "https://https://github.com/Kailash-chowdhury/IBM-Dashboard/blob/main/IBM%20data.csv">Dataset</a>
+## Dashboard Preview: ![Screenshot (105)](https://github.com/user-attachments/assets/15d5cac2-f6ac-41e3-aa8a-cc0ba0f0684f)
