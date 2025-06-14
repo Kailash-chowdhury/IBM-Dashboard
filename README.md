@@ -1,4 +1,4 @@
-📊 IBM-Dashboard - Employee Data Insights
+## 📊 IBM-Dashboard - Employee Data Insights
 This Power BI Dashboard provides a comprehensive, interactive visualization of IBM's employee data. Designed to deliver clear, insightful analytics, the dashboard enables users to explore various employee-related metrics using user-friendly filters and dynamic visuals. It’s an ideal tool for HR analysts, data enthusiasts, or business decision-makers seeking to understand workforce demographics and distributions within IBM.
 
 🔍 Key Dashboard Features:
